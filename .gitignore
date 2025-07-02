@@ -1,0 +1,87 @@
+# --- Unity Generated Files ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+CrashReports/
+
+# --- IDE and Editor ---
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.sln
+*.unityproj
+*.pidb
+*.booproj
+
+# JetBrains Rider
+*.sln.iml
+
+# --- Platform Builds ---
+*.apk
+*.aab
+*.ipa
+*.xcworkspace/
+*.xcodeproj/
+*.xcuserdata/
+DerivedData/
+
+# --- Gradle/Android ---
+.gradle/
+*.gradle
+*.keystore
+*.jks
+local.properties
+build/
+
+# --- iOS ---
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+
+# --- macOS / Windows ---
+.DS_Store
+*.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Firebase / Google Services ---
+google-services.json
+GoogleService-Info.plist
+
+# --- Build Cache / Metadata ---
+*.apk
+*.aab
+*.symbols
+*.tmp
+*.bak
+
+# --- Git Files ---
+*.orig
+
+# --- Optional: Unity Cloud Build Settings (remove if you use it) ---
+UnityCloudBuild/
+
+# --- Optional: Addressables Build (keep settings only) ---
+Assets/AddressableAssetsData/*/Build*
+Assets/AddressableAssetsData/*/bin*
+
+# --- Optional: Plastic SCM (if not using it) ---
+.plastic/
+ignore.conf
+
+# --- Env / Secrets ---
+.env
+*.env.local
+*.p12
+*.pem
+*.key
