@@ -83,5 +83,5 @@ Want to help improve this experience? Add custom pathfinding, support localizati
 
 ## Made For
 
-**Smithsonian National Air and Space Museum – Udvar-Hazy Center**  
+[**Smithsonian National Air and Space Museum – Udvar-Hazy Center**](https://airandspace.si.edu/visit/udvar-hazy-center)  
 By [Jake](https://github.com/jakep84), 2025
