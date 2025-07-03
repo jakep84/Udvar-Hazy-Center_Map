@@ -11,11 +11,13 @@ public class Waypoint : MonoBehaviour
     {
         GetComponent<Renderer>().material = visibleMaterial;
         isActive = true;
+        Debug.Log($"Waypoint of type {type} is now visible.");
     }
 
     public void Hide()
     {
         GetComponent<Renderer>().material = hiddenMaterial;
+        Debug.Log($"Waypoint of type {type} is now hidden.");
         isActive = false;
     }
 }
