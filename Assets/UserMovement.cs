@@ -9,7 +9,7 @@ public class UserMovement : MonoBehaviour
         float h = Input.GetAxis("Horizontal");
         float v = Input.GetAxis("Vertical");
 
-        Vector3 move = new Vector3(h, 0, v);
+        Vector3 move = new Vector3(-h, 0, -v);
         transform.Translate(move * moveSpeed * Time.deltaTime, Space.World);
     }
 }
