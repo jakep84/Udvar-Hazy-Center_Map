@@ -5663,8 +5663,8 @@ MonoBehaviour:
   zoomSpeed: 0.01
   minZoom: 0.5
   maxZoom: 3
-  minPosition: {x: -880, y: -693}
-  maxPosition: {x: 605, y: 466}
+  minPosition: {x: -1053.2, y: -229.1}
+  maxPosition: {x: 605, y: 1211.6}
 --- !u!1 &1696082204
 GameObject:
   m_ObjectHideFlags: 0
